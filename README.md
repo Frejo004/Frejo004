@@ -12,22 +12,17 @@ I'm a web development student exploring the world of code and excited to learn n
 - **Frameworks/Libraries:** VueJS, Laravel
 - **Tools:** Git, GitHub, VS Code
 
-## 📈 GitHub Stats
-<details>
-  <summary><h2> <img align="center" src="https://github.com/Frejo004/Frejo004/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=Frejo004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+## 📈 GitHub Stats and Activity
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=tokyonight)
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=false)<br/><br/>
     ![](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night)
-  </div>
-</details>
+
 
 ## :surfer: Most used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&hide_progress=false)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/frejus-dassi)  
+- [LinkedIn](www.linkedin.com/in/frejus-dassi-842682327)  
 
 
 
