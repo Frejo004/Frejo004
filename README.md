@@ -13,11 +13,15 @@ I'm a web development student exploring the world of code and excited to learn n
 - **Tools:** Git, GitHub, VS Code
 
 ## 📈 GitHub Stats and Activity
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=tokyonight)
+![Frejus DASSI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=radical)
     ![](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=false)<br/><br/>
     ![](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night)
-    ![Frejus DASSI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=radical)
+    
 
+
+##Bagbe
+![GitHub License](https://img.shields.io/github/license/Frejo004/your-repo)
+![GitHub Stars](https://img.shields.io/github/stars/Frejo004/your-repo)
 
 ## :surfer: Most used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&hide_progress=false)
