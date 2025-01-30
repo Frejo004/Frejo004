@@ -16,6 +16,7 @@ I'm a web development student exploring the world of code and excited to learn n
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=tokyonight)
     ![](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=false)<br/><br/>
     ![](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night)
+    ![Frejus DASSI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=radical)
 
 
 ## :surfer: Most used Languages
