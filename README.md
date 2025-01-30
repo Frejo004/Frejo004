@@ -16,13 +16,11 @@ I'm a web development student exploring the world of code and excited to learn n
 ![Frejus DASSI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=radical)
     ![](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=false)<br/><br/>
     ![](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night)
+    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Frejo004&theme=react-dark)
     
 
-
-##Badges de Compétences
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## GitHub Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Frejo004&theme=onedark)
 
 
 
