@@ -29,10 +29,7 @@ I'm a web development student exploring the world of code and excited to learn n
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&hide_progress=false)
 
 ## 🌐 Connect with Me
-### Contact Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-- [LinkedIn](www.linkedin.com/in/frejus-dassi-842682327)  
+![Snake Game](https://github.com/Frejo004/Frejo004/blob/output/github-contribution-grid-snake.svg)
 
 
 
