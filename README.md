@@ -51,21 +51,7 @@ Développeur web polyvalent avec une expertise en développement full-stack. Je 
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frejo004&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Frejo004&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Frejo004&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Frejo004&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Frejo004&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Frejo004&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Frejo004&repo=your-repo&show_owner=true)
 
 ## 🏆 Accomplissements
 
