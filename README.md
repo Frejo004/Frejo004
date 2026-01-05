@@ -1,47 +1,74 @@
-# 👋 Hello! I’m @Frejo004
+# 👋 Salut, je suis Fréjus DASSI (@Frejo004)
 
-I'm a web development student exploring the world of code and excited to learn new web technologies.
+Développeur web passionné basé au Bénin 🇧🇯, je transforme des idées en expériences web interactives et performantes.
 
-## 🔭 About Me
-- 💻 I’m currently studying web development, focused on building a strong foundation in HTML, CSS, JavaScript, and more.
-- 🌱 I love learning new skills and insights from experienced developers and continuously exploring new technologies.
-- 🎯 My goal is to build meaningful projects, gain practical experience, and make money while having fun coding 🐱‍👤.
-- - 📫 How to reach me: [Email](mailto:frejohope@gmail.com) | [LinkedIn](https://linkedin.com/in/frejus-dassi-842682327)
+## 🚀 À propos de moi
 
-## 🛠️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Frejo004&color=blue)
+Étudiant en développement web avec une passion pour la création de solutions élégantes et fonctionnelles. Je crois fermement que le code est un outil puissant pour résoudre des problèmes réels et créer de la valeur.
 
+- 💼 Actuellement en formation intensive en développement full-stack
+- 🎯 Objectif : Construire des projets qui ont un impact réel tout en développant mes compétences
+- 🌱 En apprentissage continu de nouvelles technologies et best practices
+- ⚡ Fun fact : J'aime coder en écoutant de la musique 🎵
 
-## 🛠️ Technologies & Tools
-- **Languages:** HTML, CSS, JavaScript, PHP
-- **Frameworks/Libraries:** VueJS, Laravel
-- **Tools:** Git, GitHub, VS Code
+## 🛠️ Stack Technique
 
-## 📈 Repo Stats
-![Frejus DASSI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=radical)
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=false)<br/><br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night)
-    ![](https://activity-graph.herokuapp.com/graph?username=Frejo004&theme=react-dark)
+### Langages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### Frameworks & Librairies
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## 📈 GitHub Stats and Activity
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Frejo004&repo=your-repo&show_owner=true)
-    
+### Outils & Environnement
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub Trophy
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Frejo004&theme=onedark)
+## 📊 Statistiques GitHub
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=true)
 
-## :surfer: Most used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&hide_progress=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🌐 Connect with Me
+</div>
 
+## 🏆 Accomplissements
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Frejo004&theme=tokyonight&no-frame=true&row=1&column=6)
 
+## 📈 Activité
 
-<!---
-Frejo004/Frejo004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night&hide_border=true)
+
+## 💡 Projets Phares
+
+<!-- Remplacez 'your-repo' par vos vrais projets -->
+Mes meilleurs projets seront bientôt disponibles ! En attendant, n'hésitez pas à explorer mes repositories.
+
+## 📫 Restons connectés
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frejohope@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frejus-dassi-842682327)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frejo004)
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Frejo004&color=blueviolet&style=flat-square)
+
+**"Code is poetry written in logic."** ✨
+
+</div>
+
+<!--
+💡 Astuce : N'oubliez pas d'épingler vos meilleurs projets sur votre profil !
+-->
