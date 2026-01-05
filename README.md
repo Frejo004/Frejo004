@@ -53,21 +53,32 @@ Développeur web polyvalent avec une expertise en développement full-stack. Je 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frejo004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&layout=compact&langs_count=8&theme=tokyonight"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frejo004&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejo004&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Frejo004&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 ## 🏆 Accomplissements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Frejo004&theme=tokyonight&no-frame=true&row=1&column=6)
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frejo004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 Activité
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night&hide_border=true)
+## 📈 Graphique d'Activité
+
+<div align="center">
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Frejo004&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ## 💼 Stack Préférée
 ```text
@@ -101,8 +112,3 @@ Design    : Figma + Canva
 💬 Ouvert aux opportunités de collaboration et aux projets innovants !
 
 </div>
-
-<!--
-💡 Astuce : N'oubliez pas d'épingler vos meilleurs projets sur votre profil !
-Showcase projects that demonstrate your full-stack capabilities across different technologies.
--->
