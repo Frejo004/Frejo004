@@ -56,9 +56,7 @@ Développeur web polyvalent avec une expertise en développement full-stack. Je 
 ## 🏆 Accomplissements
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frejo004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frejo004)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## 📈 Graphique d'Activité
